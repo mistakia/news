@@ -20,7 +20,7 @@
 	"longjohn": "^0.2.8",
 	"moment": "^2.13.0",
 	"mysql": "^2.7.0",
-	"uuid": "2.0.1",
+	"uuid": "14.0.0",
 	"watson-developer-cloud": "2.2.0"
     },
     "devDependencies": {
